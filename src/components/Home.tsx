@@ -34,7 +34,7 @@ export default function Home({ onMainTabSelect, onSubTabSelect }: HomeProps) {
             <span className="text-cyan-300">Academic Blog</span>
           </h1>
           <p className="text-blue-100 text-lg max-w-2xl leading-relaxed">
-            Your comprehensive resource for MCA coursework — assignments, notes, lab exercises,
+            Your comprehensive resource for MCA coursework —assignments, notes, lab exercises,
             examinations, and more across multiple programming languages and software engineering topics.
           </p>
           <div className="flex flex-wrap gap-4 mt-6">
